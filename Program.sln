@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManager", "BookManager\BookManager.csproj", "{A3E6E79B-DE4A-4442-8967-25257BE7546F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{0C7ABCFE-A8DA-4706-9EDE-C87D2C72671F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A3E6E79B-DE4A-4442-8967-25257BE7546F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3E6E79B-DE4A-4442-8967-25257BE7546F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3E6E79B-DE4A-4442-8967-25257BE7546F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7ABCFE-A8DA-4706-9EDE-C87D2C72671F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7ABCFE-A8DA-4706-9EDE-C87D2C72671F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7ABCFE-A8DA-4706-9EDE-C87D2C72671F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7ABCFE-A8DA-4706-9EDE-C87D2C72671F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
